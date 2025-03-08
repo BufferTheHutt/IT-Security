@@ -1,2 +1,2 @@
 # IT-Security
-Werkzeuge und Scripts zur IT-Sicherheit, die in der digitalen Forensik und zur Absicherung von Systemen zum Einsatz kommen.
+### A suite of instruments and scripts designed for IT security operations, integral to digital forensics and system protection protocols.
